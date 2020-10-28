@@ -6,5 +6,5 @@
 [![LinkedIn](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=blue&logo=Portfolio&style=flat-square&logoColor=blue)](https://aaronvandenberg.nl/)
   
   
-👨‍💻 21 Years young Developer  
+👨‍💻 22 Years young Developer  
 👨‍🎓 Studying ICT Webdevelopment (University of Applied Sciences)  
