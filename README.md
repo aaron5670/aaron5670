@@ -3,8 +3,8 @@
 ### Hi there I'm Aaron :lemon:
 
 [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/aaron-van-den-berg/)
-[![LinkedIn](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=blue&logo=Portfolio&style=flat-square&logoColor=blue)](https://aaronvandenberg.nl/)
+[![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=blue&logo=Portfolio&style=flat-square&logoColor=blue)](https://aaronvandenberg.nl/)
   
   
-👨‍💻 22 Years young Developer  
-👨‍🎓 Studying ICT Webdevelopment (University of Applied Sciences)  
+👨‍💻 23 Years young developer  
+👨‍🎓 Studying ICT Webdevelopment at the University of Applied Sciences  
