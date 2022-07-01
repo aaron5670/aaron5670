@@ -7,4 +7,4 @@
   
   
 👨‍💻 23 Years young developer  
-👨‍🎓 Studying ICT Webdevelopment at the University of Applied Sciences  
+👨‍🎓 Graduated ICT Web Development at the University of Applied Sciences (July, 2022)   
