@@ -6,5 +6,5 @@
 [![Portfolio](https://img.shields.io/static/v1?label=Portfolio&message=%20&color=blue&logo=Portfolio&style=flat-square&logoColor=blue)](https://aaronvandenberg.nl/)
   
   
-👨‍💻 23 Years young developer  
+👨‍💻 24 Years young developer  
 👨‍🎓 Graduated ICT Web Development at the University of Applied Sciences (July, 2022)   
